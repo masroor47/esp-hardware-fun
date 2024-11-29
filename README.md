@@ -1,4 +1,8 @@
-So to work on this, here's what I have to do:
+# The time has come
+
+Haven't you heard? It's time to build! I decided to learn real-time C++ and play with hardware. I happen to have an ESP32 around, so here I am.
+
+So to work on this, here's what I have to do (install esp-idf first)
 
 Activate the esp-idf environemnt or something?
 

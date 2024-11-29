@@ -2,3 +2,9 @@
 
 # build stuff
 build/
+
+# vscode
+.vscode/
+
+# macos
+.DS_Store
